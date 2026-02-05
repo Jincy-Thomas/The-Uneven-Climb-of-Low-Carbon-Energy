@@ -1,7 +1,7 @@
 # The Uneven Climb of Low-Carbon Energy
 
 ## Project Overview
-The global rise of low-carbon energy — including hydropower, nuclear, solar, wind, and other renewables — was analyzed from 1965 to 2024. Regional trends, growth rates, and disparities across continents were examined, highlighting policy and investment gaps that affect the clean energy transition.
+The global rise of low-carbon energy - including hydropower, nuclear, solar, wind, and other renewables - was analyzed from 1965 to 2024. Regional trends, growth rates, and disparities across continents were examined, highlighting policy and investment gaps that affect the clean energy transition.
 
 ---
 
