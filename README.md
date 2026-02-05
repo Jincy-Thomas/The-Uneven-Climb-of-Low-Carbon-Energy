@@ -10,8 +10,6 @@ The global rise of low-carbon energy - including hydropower, nuclear, solar, win
 Data on the share of primary energy consumption from low-carbon sources was used:
 
 - **Our World in Data – Low-Carbon Share of Energy**  
-  https://ourworldindata.org/grapher/share-energy-low-carbon  
-  *(Processed data used for analysis and visualization)*
 
 - **Energy Institute – Statistical Review of World Energy (2025)**  
   Original source of global energy consumption statistics.
